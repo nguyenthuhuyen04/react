@@ -1,0 +1,40 @@
+.app-shell {
+  min-height: 100vh;
+}
+
+.banner {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9f2ff 100%);
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.banner-img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  display: block;
+}
+
+.banner-empty {
+  min-height: 260px;
+  background: #fff;
+}
+
+table.table {
+  margin-top: 10px;
+}
+
+#footer {
+  background: #fff;
+}
+
+.table thead th {
+  font-weight: 700;
+}
